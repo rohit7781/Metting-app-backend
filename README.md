@@ -1,5 +1,5 @@
-# Metting app-backend-Nodejs
-This is backend of my cloud notenook written in Nodejs.
+# Meeting app-backend-Nodejs
+This is backend of my meeting app written in Nodejs.
 
 # Install Nodemon (npm i nodemon)
 
